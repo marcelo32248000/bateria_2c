@@ -6,7 +6,7 @@
   --luz: rgb(229, 255, 0);
 }
 
-body {
+.body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
   display: flex;
@@ -16,7 +16,7 @@ body {
   min-height: 100vh;
 }
 
-h1 {
+.h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
